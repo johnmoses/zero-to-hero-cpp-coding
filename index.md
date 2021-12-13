@@ -1,0 +1,16 @@
+# Home
+
+* [Introduction](intro/index.md)
+* [Code Structure](code/index.md)
+* [Types](types/index.md)
+* [Statements](statements/index.md)
+* [Functions](functions/index.md)
+* [Modules](modules/index.md)
+* [Objects](objects/index.md)
+* [Files](files/index.md)
+* [Operating System](os/index.md)
+* [Databases](databases/index.md)
+* [GUI](gui/index.md)
+* [Networks](networks/index.md)
+* [Data Science](datascience/index.md)
+* [Extras](xtras/index.md)
