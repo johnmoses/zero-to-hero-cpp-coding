@@ -1,6 +1,4 @@
-[Home](../index.md)
-
-# Intro
+# C/C++ Language
 
 ## Writing a simple program
 

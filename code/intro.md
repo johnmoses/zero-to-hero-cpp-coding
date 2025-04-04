@@ -1,5 +1,3 @@
-[Home](../index.md)
-
 # Code Structure
 
 ## Primitive built-in types
@@ -21,6 +19,7 @@
 ## Arrays
 
 ## Expressions
+
 Arithmetic Operators
 Logical and Relational Operators
 Assignment Operators
@@ -32,6 +31,7 @@ Comma Operator
 Type Conversions
 
 ## Statements
+
 Simple Statements
 Statement Scope
 Conditional Statements
@@ -40,7 +40,9 @@ Jump Statements
 Exception Handling
 
 ## Functions
-A function is a block of code that encapsulates some computation without worrying about its implementation
+
+A function is a block of code that encapsulates some computation without worrying about its implementation. Some of the built in functions include `printf, getchar, putchar`.
+
 Argument Passing
 Return types
 Overloaded Functions
@@ -50,15 +52,15 @@ Pointers to Functions
 ## Templates
 
 ## Control flow
+
 Control flow statements determine the order in which program code is executed by the processor
 
-## Functions
-A function is a block of code that encapsulates some computation without worrying about its implementation. Some of the built in functions include `printf, getchar, putchar`.
-
 ## Pointers and Arrays
+
 A pointer is a variable that contains the address of a variable.
 
 ## Structures
+
 A structure is a collection of one or more variables, posibly of different types grouped together in a common name. They are called records in Pascal language. An example of this is the payrol record that keeps track of employee data and salary
 
 The keyword `struct` defines a structure in C language.
